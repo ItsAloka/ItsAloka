@@ -1,6 +1,6 @@
 <div align="center">
 
-# Aloka Warnakula
+# ItsAloka
 
 **The Simpler The Better**
 
