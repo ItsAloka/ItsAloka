@@ -8,7 +8,7 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/moonlit-japan.png">
-  <img src="assets/moonlit-japan.gif" width="1000" alt="A moonlit Japanese scene: a white kitsune sways its tails beneath a sakura tree as blue spirit lights float nearby, while a tiny pixel samurai walks along the lake and pauses to watch the moon.">
+  <img src="assets/moonlit-japan.gif" width="1000" alt="A moonlit Japanese scene with distant shooting stars, a white kitsune with swaying tails and blue spirit lights beneath a sakura tree, and a tiny pixel samurai who walks along the lake and pauses to watch the moon.">
 </picture>
 
 </div>
@@ -35,9 +35,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlokaWarnakula/AlokaWarnakula/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlokaWarnakula/AlokaWarnakula/output/github-contribution-grid-snake.svg">
-  <img width="1000" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/AlokaWarnakula/AlokaWarnakula/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsAloka/ItsAloka/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsAloka/ItsAloka/output/github-contribution-grid-snake.svg">
+  <img width="1000" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ItsAloka/ItsAloka/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
