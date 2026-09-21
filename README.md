@@ -8,7 +8,7 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/moonlit-japan.png">
-  <img src="assets/moonlit-japan.gif" width="1000" alt="A quiet, anime-inspired Japanese night: sakura petals drift past Mount Fuji and a torii gate beneath the moon.">
+  <img src="assets/moonlit-japan.gif" width="1000" alt="A moonlit Japanese scene: a white kitsune sways its tails beneath a sakura tree as blue spirit lights float nearby, while a tiny pixel samurai walks along the lake and pauses to watch the moon.">
 </picture>
 
 </div>
